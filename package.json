@@ -1,0 +1,16 @@
+{
+  "name": "com.zenoxzx.incremental-system",
+  "displayName": "Incremental System",
+  "version": "1.0.0",
+  "unity": "2018.1",
+  "description": "Incremental System for Hypercasual games.",
+  "dependencies": {
+    "com.zenoxzx.ui-base": "1.0.0",
+    "com.zenoxzx.money-system": "1.0.0"
+  },
+  "author": {
+    "name": "Aygun OZGUR",
+    "email": "aygunozmen@gmail.com",
+    "url": "https://github.com/ZenoxZX/IncrementalSystem"
+  }
+}
