@@ -5,7 +5,7 @@ using System;
 using ZenoxZX.UI;
 using HotPurpleBerry.Money;
 
-namespace HotPurpleBerry.Incrementals.UI
+namespace ZenoxZX.Incrementals.UI
 {
     [Serializable]
     public class IncrementalGUI : GUIBase

@@ -5,7 +5,7 @@ using UnityEngine.UI;
 using TMPro;
 using HotPurpleBerry.Money;
 
-namespace HotPurpleBerry.Incrementals.UI
+namespace ZenoxZX.Incrementals.UI
 {
     public class IncrementalButton : MonoBehaviour
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 
-namespace HotPurpleBerry.Incrementals
+namespace ZenoxZX.Incrementals
 {
     [Serializable]
     public class Incremental
